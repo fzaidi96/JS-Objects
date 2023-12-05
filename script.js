@@ -97,3 +97,10 @@ person.getAge(); // 26
 
 
 
+// Question 1: Is a function inside an object = JS Method? 
+// 2:Referring to key:value, when you add a function inside an object e.g. sayHello(), does the key act as the function name or can you do what I've written below?
+    // const person = {
+       // name: Fatima,
+        //sayHello: function sayHello () {
+       //     console.log("Hello!")
+       // }}
